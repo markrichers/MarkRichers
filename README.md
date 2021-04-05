@@ -10,6 +10,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: "M.A.R.K" 
 - ⚡ Interest: Practice Meditation. 
 
+
+
+
+### MARK JOURNEY
 <!--
 **MarkRichers/MarkRichers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
