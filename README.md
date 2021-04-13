@@ -12,10 +12,12 @@
 - ⚡ Interest: Practice Meditation. 
 
 
-### MARK JOURNEY
-ECO-AI-VILLAGE. 
-IBM CORONA - AI PREDICTION. 
-PLAINWEAR-DATA-ANALYTIC
+### 📕 Latest PROJECT WORK Posts
+- ECO-AI-VILLAGE. 
+- IBM CORONA - AI PREDICTION. 
+- PLAINWEAR-DATA-ANALYTIC-SALE
+- SELF-Driving-CAR-LEGO-MINDSTORM
+- NEW-YORK-MAP-TAXI
 
 ### Spotify Playing 🎧
 
@@ -65,7 +67,6 @@ PLAINWEAR-DATA-ANALYTIC
 - [Don't Mess Up This Technical Interview Question | Use JavaScript Map() & Set() Objects](https://www.youtube.com/watch?v=oMvzICS-9l4)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
