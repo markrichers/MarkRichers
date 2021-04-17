@@ -56,5 +56,7 @@
 <br />
 
 [![Apache](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?raw=true)](https://httpd.apache.org/)
-
+[![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/)
+[![npm](https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png)](https://www.npmjs.com/)
+[![Scala](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_scala.png?raw=true)](http://www.scala-lang.org/)
 
