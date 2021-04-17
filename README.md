@@ -55,6 +55,37 @@
 <br />
 <br />
 
+---------------
+<p align="center">
+    <br>
+    <img src="src/programming-languages.gif" alt="List of programming languages logos">
+    <br>
+    <br>
+    <br>
+    <br>
+    <!-- 
+        Plese don't fix the world 'porgramming' it is not a typo.
+        Well it is a typo but a working typo :) 
+    -->
+    <img src="https://cdn.abranhe.com/projects/porgramming-languages-logos/logo.svg" alt="programming gif">
+    <br>
+    <br>
+    <b>High Resolution Programming Languages Logos</b>
+    <br>
+    <br>
+    <a href="https://languages.abranhe.com"><code>languages.abranhe.com</code></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/abranhe/programming-languages-logos/actions"><img src="https://github.com/abranhe/programming-languages-logos/workflows/publish/badge.svg" /></a>
+    <a href="https://github.com/abranhe/programming-languages-logos"><img src="https://img.shields.io/npm/v/programming-languages-logos.svg?logo=npm" /></a>
+	<a href="https://github.com/abranhe/programming-languages-logos/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/programming-languages-logos.svg" /></a>
+    <a href="https://github.com/abranhe/programming-languages-logos"><img src="https://img.shields.io/github/repo-size/abranhe/programming-languages-logos.svg?logo=github"></a>
+    <br>
+    <br>
+    <b><a href="https://github.com/abranhe/react-pll">Using React?</a></b>
+    <br>
+</p>
 ---
 
 
