@@ -13,7 +13,7 @@
 
 
 ### 📕 Latest PROJECT WORK Posts
-- ECO-AI-VILLAGE. 
+- [ECO-AI-VILLAGE](https://github.com/MarkRichers/ECO-Villages-AI-Project)
 - IBM CORONA - AI PREDICTION. 
 - PLAINWEAR-DATA-ANALYTIC-SALE
 - SELF-Driving-CAR-LEGO-MINDSTORM
