@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning AI from Fontys University of Applied Science in Netherlands
 - 👯 I’m looking to collaborate on QuanTum Research Study in IBM Cloud
 - 🤔 I’m looking for support and help the world AI engineer with Data Visulization in R, Python, and Tableau + Deep Learning
-- 📫 How to reach me: nguyenmark140@gmail.com | Linkedin Mark Nguyen
+- 📫 How to reach me: nguyenmark140@gmail.com | Linkedin [Mark Nguyen](https://www.linkedin.com/in/mark-nguyen140/)
 - 😄 Pronouns: "M.A.R.K" 
 - ⚡ Interest: Practice Meditation - Quantum Computer 
 
