@@ -59,8 +59,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=ECO-Villages-AI-Project&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/ECO-Villages-AI-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=NYC-TRIPS-AI-DATA-PROJECT&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Corona-IBM-Research)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkRichers)](https://github.com/MarkRichers/github-readme-stats)
-
 
 <br>
 <br />
