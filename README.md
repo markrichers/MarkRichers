@@ -32,39 +32,15 @@
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
-
-### Languages and Tools:
-
-
-
-
-### Minor Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piacme&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/piacme)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pilogger&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/pilogger)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stream-rtsp&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/stream-rtsp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piclock&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/piclock)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stocks&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/stocks)
-
-<br>
-
-### ML Model Ports
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=blazepose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/blazepose)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=nanodet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/nanodet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=efficientpose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/efficientpose)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=nudenet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/nudenet)
-
+### Programming Languages: 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -74,6 +50,17 @@
 <img align="left" alt="Terminal" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?raw=true" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />
+
+
+### Minor Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piacme&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/ECO-Villages-AI-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pilogger&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Corona-IBM-Research)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stream-rtsp&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Fashion-Sale-PowerBi-Analytic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piclock&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/piclock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stocks&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/stocks)
+
+<br>
 
 <br />
 <br />
