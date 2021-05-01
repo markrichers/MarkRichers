@@ -35,6 +35,26 @@
 
 ### Languages and Tools:
 
+
+
+
+### Minor Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piacme&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/piacme)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pilogger&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/pilogger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stream-rtsp&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/stream-rtsp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piclock&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/piclock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=stocks&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/stocks)
+
+<br>
+
+### ML Model Ports
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=blazepose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/blazepose)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=nanodet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/nanodet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=efficientpose&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/efficientpose)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=nudenet&theme=dark&hide_border=true&bg_color=444444)](https://github.com/vladmandic/nudenet)
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
