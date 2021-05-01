@@ -58,7 +58,7 @@
 ### Minor Projects: 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piacme&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/ECO-Villages-AI-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=pilogger&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Corona-IBM-Research)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=NYC-TRIPS-AI-DATA-PROJECT&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Corona-IBM-Research)
 
 
 <br>
