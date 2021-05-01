@@ -53,8 +53,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />
 
+<br />
 
-### Minor Projects
+### Minor Projects: 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=piacme&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/ECO-Villages-AI-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vladmandic&repo=pilogger&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Corona-IBM-Research)
