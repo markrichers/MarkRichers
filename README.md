@@ -58,7 +58,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=ECO-Villages-AI-Project&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/ECO-Villages-AI-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=Python-Covid19-Project-ML&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Python-Covid19-Project-ML)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=Fashion-Sale-PowerBi-Analytict&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Fashion-Sale-PowerBi-Analytic)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=Fashion-Sale-PowerBi-Analytic&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Fashion-Sale-PowerBi-Analytic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=NYC-TRIPS-AI-DATA-PROJECTt&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/NYC-TRIPS-AI-DATA-PROJECT)
 
 
