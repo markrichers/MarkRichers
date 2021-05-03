@@ -17,7 +17,7 @@
 - [IBM CORONA - AI PREDICTION](https://github.com/MarkRichers/Corona-IBM-Research) 
 - [PLAINWEAR-DATA-ANALYTIC-SALE](https://github.com/MarkRichers/Fashion-Sale-PowerBi-Analytic)
 - [SELF-Driving-CAR-LEGO-MINDSTORM]
-- NEW-YORK-MAP-TAXI
+- [NEW-YORK-MAP-TAXI](https://github.com/MarkRichers/NYC-TRIPS-AI-DATA-PROJECT)
 
 ### Spotify Playing 🎧
 
