@@ -19,9 +19,6 @@
 - [SELF-Driving-CAR-LEGO-MINDSTORM]
 - [NEW-YORK-MAP-TAXI](https://github.com/MarkRichers/NYC-TRIPS-AI-DATA-PROJECT)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
