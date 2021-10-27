@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-
-
-
-- 🔭 I’m currently working on machine-learning studying and AI development Project in Brainport of Netherland. 
-- 🌱 I’m currently learning AI from Fontys University of Applied Science in Netherlands
-- 👯 I’m looking to collaborate on QuanTum Research Study in IBM Cloud
-- 🤔 I’m looking for support and help the world AI engineer with Data Visulization in R, Python, and Tableau + Deep Learning
+- 🔭 I’m currently working on data-engineer studying and Signify development Project in Brainport of Netherland. 
+- 🌱 I’m currently learning ICT&AI from Fontys University of Applied Science in Netherlands
+- 👯 I’m looking to collaborate on software engineering business project.
+- 🤔 I’m looking for support and help the world AI engineer with Data Visulization in R, Python, and Tableau and SQL. 
 - 📫 How to reach me: nguyenmark140@gmail.com | Linkedin [Mark Nguyen](https://www.linkedin.com/in/mark-nguyen140/)
 - 😄 Pronouns: "M.A.R.K" 
 - ⚡ Interest: Practice Meditation - Quantum Computer - AI business.
@@ -16,7 +13,6 @@
 - [ECO-AI-VILLAGE](https://github.com/MarkRichers/ECO-Villages-AI-Project)
 - [IBM CORONA - AI PREDICTION](https://github.com/MarkRichers/Corona-IBM-Research) 
 - [PLAINWEAR-DATA-ANALYTIC-SALE](https://github.com/MarkRichers/Fashion-Sale-PowerBi-Analytic)
-- [SELF-Driving-CAR-LEGO-MINDSTORM]
 - [NEW-YORK-MAP-TAXI](https://github.com/MarkRichers/NYC-TRIPS-AI-DATA-PROJECT)
 
 
