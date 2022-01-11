@@ -9,13 +9,6 @@
 - ⚡ Interest: Practice Meditation - Quantum Computer - AI business.
 
 
-### 📕 Latest PROJECT WORK Posts
-- [ECO-AI-VILLAGE](https://github.com/MarkRichers/ECO-Villages-AI-Project)
-- [IBM CORONA - AI PREDICTION](https://github.com/MarkRichers/Corona-IBM-Research) 
-- [PLAINWEAR-DATA-ANALYTIC-SALE](https://github.com/MarkRichers/Fashion-Sale-PowerBi-Analytic)
-- [NEW-YORK-MAP-TAXI](https://github.com/MarkRichers/NYC-TRIPS-AI-DATA-PROJECT)
-
-
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
