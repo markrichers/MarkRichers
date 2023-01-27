@@ -36,6 +36,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apache.png?raw=true" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />
 
+
+### Main Project Data Lead:
+
+- 🔭[Data Azure Project Healthcare](https://github.com/oscarnguyen99/HealthCare-Mood-Project) - Azure Cloud with MOOD Metric Ring aim for Autism Kid. 
+- 🔭[NewYorkTaxi-DataScienceProject](https://github.com/oscarnguyen99/NewYorkTaxi-DataScienceProject) - Taxi Analysis using algorithm and AI technique. 
+- 🔭[Fashion-Sale-Global-Analytic](https://github.com/oscarnguyen99/Fashion-Sale-PowerBi-Analytic) - Analyze Fashion Sale Data Analytic accross Global.
+- 🔭[Data-Engineer-AWS=Signify](https://github.com/oscarnguyen99/Signify-DataEngineerProject) - AWS Cloud Data-Engineer Project intern at Signify. 
+- 🔭[Mega-Air-Quality-Project](https://github.com/oscarnguyen99/ECO-Villages-AI-Project) - International AI project with 3 countries. 
+
 <br />
 
 
@@ -47,9 +56,20 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=SQLProject&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/SQLProject)
 
 
-
-
 <br>
+
+
+### Used to be AI Lover: 
+
+![1636299008717](https://user-images.githubusercontent.com/50198601/212081601-3bdce926-4012-4c9c-b60e-3dcb2d4bc332.jpeg)
+
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+<br />
+<br />
 <br />
 <br />
 
