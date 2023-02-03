@@ -47,7 +47,7 @@
 - 🔭[Fashion-Sale-Global-Analytic](https://github.com/oscarnguyen99/Fashion-Sale-PowerBi-Analytic) - Analyze Fashion Sale Data Analytic accross Global.
 - 🔭[Data-Engineer-AWS=Signify](https://github.com/oscarnguyen99/Signify-DataEngineerProject) - AWS Cloud Data-Engineer Project intern at Signify. 
 - 🔭[Mega-Air-Quality-Project](https://github.com/oscarnguyen99/ECO-Villages-AI-Project) - International AI project with 3 countries. 
-
+- 🔭[Spark Datamodel Pulling Weather](https://github.com/oscarnguyen99/ECO-Villages-AI-Project) - Internship at World First's Solar Car Data Project
 <br />
 
 
