@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on data-engineer studying and Signify development Project in Brainport of Netherland. 
 - 👯 I’m looking to collaborate on software engineering business project.
@@ -7,10 +7,9 @@
 - 😄 Pronouns: "M.A.R.K" 
 - ⚡ Interest: Practice Meditation - AI business.
 
-
 <br>
 
-### Main Project Data Lead:
+## Main Project Data Lead:
 
 - 🔭[Data Azure Project Healthcare](https://github.com/oscarnguyen99/HealthCare-Mood-Project) - Azure Cloud with MOOD Metric Ring aim for Autism Kid. 
 - 🔭[NewYorkTaxi-DataScienceProject](https://github.com/oscarnguyen99/NewYorkTaxi-DataScienceProject) - Taxi Analysis using algorithm and AI technique. 
@@ -32,7 +31,7 @@
 <br>
 
 
-### Used to be AI Lover: 
+## Used to be AI Lover: 
 
 ![1636299008717](https://user-images.githubusercontent.com/50198601/212081601-3bdce926-4012-4c9c-b60e-3dcb2d4bc332.jpeg)
 
