@@ -67,10 +67,6 @@
 ![1636299008717](https://user-images.githubusercontent.com/50198601/212081601-3bdce926-4012-4c9c-b60e-3dcb2d4bc332.jpeg)
 
 
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 ## Github Stats
 
 
@@ -79,11 +75,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarkRichers&theme=dracula)](https://github.com/MarkRichers/github-readme-activity-graph)
 
-
-<br />
-<br />
-<br />
-<br />
 
 
 
