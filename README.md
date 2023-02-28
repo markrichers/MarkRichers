@@ -70,7 +70,7 @@
 ## Github Stats
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkRichers&count_private=true&show_icons=true&theme=tokyonight&text_color=61d9fa&title_color=61d9fa" alt="Tony's github stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=AntoniosBarotsis&theme=react&background=0D1117" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkRichers&count_private=true&show_icons=true&theme=tokyonight" alt="Tony's github stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=AntoniosBarotsis&theme=tokyonight" /></a> |
 | ------------- | ------------- |
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarkRichers&theme=dracula)](https://github.com/MarkRichers/github-readme-activity-graph)
