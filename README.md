@@ -71,6 +71,13 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+## Github Stats
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarkRichers)](https://github.com/MarkRichers/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarkRichers&theme=dracula)](https://github.com/MarkRichers/github-readme-activity-graph)
+
+
 <br />
 <br />
 <br />
