@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on data-engineer studying and Signify development Project in Brainport of Netherland. 
-- 🌱 I’m currently learning ICT&AI from Fontys University of Applied Science in Netherlands
 - 👯 I’m looking to collaborate on software engineering business project.
 - 🤔 I’m looking for support and help the world AI engineer with Data Visulization in R, Python, and Tableau and SQL. 
 - 📫 How to reach me: nguyenmark140@gmail.com | Linkedin [Mark Nguyen](https://www.linkedin.com/in/mark-nguyen140/)
 - 😄 Pronouns: "M.A.R.K" 
-- ⚡ Interest: Practice Meditation - Quantum Computer - AI business.
+- ⚡ Interest: Practice Meditation - AI business.
 
 
 ### Connect with me:
