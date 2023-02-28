@@ -73,7 +73,7 @@
 
 ## Github Stats
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarkRichers)](https://github.com/MarkRichers/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRichers&hide_progress=true)](https://github.com/MarkRichers/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarkRichers&theme=dracula)](https://github.com/MarkRichers/github-readme-activity-graph)
 
