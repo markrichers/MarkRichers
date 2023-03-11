@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
 - 🔭 I’m currently working on data-engineer studying and Signify development Project in Brainport of Netherland. 
 - 👯 I’m looking to collaborate on software engineering business project.
@@ -66,3 +66,4 @@
 
 
 
+ -->
