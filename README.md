@@ -5,8 +5,7 @@
 - 🤔 I’m looking for support and help the world AI engineer with Data Visulization in R, Python, and Tableau and SQL. 
 - 📫 How to reach me: nguyenmark140@gmail.com | Linkedin [Mark Nguyen](https://www.linkedin.com/in/mark-nguyen140/)
 - 😄 Pronouns: "M.A.R.K" 
-- ⚡ Interest: Practice Meditation - AI business.
-- 
+- ⚡ Interest: Practice Meditation - High Tech business.
 <br />
 
 ## Programming Languages:
