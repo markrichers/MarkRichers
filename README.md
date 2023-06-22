@@ -6,7 +6,6 @@
 - 📫 How to reach me: nguyenmark140@gmail.com | Linkedin [Mark Nguyen](https://www.linkedin.com/in/mark-nguyen140/)
 - 😄 Pronouns: "M.A.R.K" 
 - ⚡ Interest: Practice Meditation - High Tech business.
-- ⚡ Portfolio: 
 <br />
 
 ## Programming Languages:
