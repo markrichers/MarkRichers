@@ -8,7 +8,6 @@
 - ⚡ Interest: Practice Meditation - High Tech business.
 <br />
 
-
 <br>
 
 ## Main Project Data Lead:
