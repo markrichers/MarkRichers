@@ -1,15 +1,13 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on data-engineer studying and Signify development Project in Brainport of Netherland. 
+- 🔭 I’m currently working on Brainport of Netherland - Sillicon of Europe. 
 - 👯 I’m looking to collaborate on software engineering business project.
 - 🤔 I’m looking for support and help the world AI engineer with Data Visulization in R, Python, and Tableau and SQL. 
 - 📫 How to reach me: nguyenmark140@gmail.com | Linkedin [Mark Nguyen](https://www.linkedin.com/in/mark-nguyen140/)
 - 😄 Pronouns: "M.A.R.K" 
 - ⚡ Interest: Practice Meditation - High Tech business.
 <br />
-
 ## Programming Languages:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
