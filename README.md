@@ -20,7 +20,7 @@
 - 🔭[Data Science GIS project](https://github.com/oscarnguyen99/NewYorkTaxi-DataScienceProject) - Taxi Analysis using algorithm and AI technique.
 - 🔭[Data Science Air Quality Project](https://github.com/oscarnguyen99/ECO-Villages-AI-Project) - International AI project with 3 countries. 
 - 🔭[Data Science Spark Weather Project at Lightyear](https://github.com/markrichers/Weather-Datamodel-Databrick) - Internship at World First's Solar Car Data Project
-- 🔭[Data Engineer TomTom Optimization](https://github.com/markrichers/TomTom-Backend-Project) - Graduation Thesis
+- 🔭[Data Engineer TomTom Optimization](https://github.com/markrichers/TomTom_Backend_Project) - Graduation Thesis
 
 <br />
 
