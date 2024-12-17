@@ -7,11 +7,8 @@
 - 😄 Pronouns: "M.A.R.K" 
 - ⚡ Interest: Practice Meditation - High Tech business.
 <br />
-
 <br>
-
 ## Main Project Data Lead:
-
 - 🔭[Data Engineer Azure Healthcare](https://github.com/oscarnguyen99/HealthCare-Mood-Project) - Azure Cloud with MOOD Metric Ring aim for Autism Kid. 
 - 🔭[Data Engineer Cloud Project at Signify](https://github.com/oscarnguyen99/Signify-DataEngineerProject) - AWS Cloud Data-Engineer Project intern at Signify.
 - 🔭[Data Engineer Sligro Shop](https://github.com/markrichers/Data-Engineer-SligroETL)- ETL Data Engineer Side Project 
@@ -24,7 +21,6 @@
 - 🔭[Data Analytic Project](https://github.com/markrichers/AnalyticTradeFinance) - Analytic Trade and Finance Personal Project
 
 <br />
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=ECO-Villages-AI-Project&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/ECO-Villages-AI-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=Python-Covid19-Project-ML&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Python-Covid19-Project-ML)
