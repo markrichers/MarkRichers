@@ -7,7 +7,9 @@
 - 😄 Pronouns: "M.A.R.K" 
 - ⚡ Interest: Practice Meditation - High Tech business.
 <br />
+
 <br>
+
 ## Main Project Data Lead:
 - 🔭[Data Engineer Azure Healthcare](https://github.com/oscarnguyen99/HealthCare-Mood-Project) - Azure Cloud with MOOD Metric Ring aim for Autism Kid. 
 - 🔭[Data Engineer Cloud Project at Signify](https://github.com/oscarnguyen99/Signify-DataEngineerProject) - AWS Cloud Data-Engineer Project intern at Signify.
