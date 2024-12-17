@@ -42,13 +42,6 @@
 ![1636299008717](https://user-images.githubusercontent.com/50198601/212081601-3bdce926-4012-4c9c-b60e-3dcb2d4bc332.jpeg)
 
 
-## Github Stats
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkRichers&count_private=true&show_icons=true&theme=tokyonight" alt="Tony's github stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=AntoniosBarotsis&theme=tokyonight" /></a> |
-| ------------- | ------------- |
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarkRichers&theme=react-dark)](https://github.com/MarkRichers/github-readme-activity-graph)
 
 
 
